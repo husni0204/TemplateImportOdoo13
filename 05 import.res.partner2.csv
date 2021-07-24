@@ -1,0 +1,11 @@
+ID;Name;City;Country;Customer Rank;Supplier Rank;Email;Mobile;Phone;State;Street;Street2;Zip;Account Payable;Account Receivable
+partner_1;ABDI SEJAHTERA CV;Semarang;Indonesia;1;0;sejahterai@gmail.com;9355234;2880898;;Ahmad Yani;;42111;21100010;11210010
+partner_2;BERDIKARI. UD;Bandung;Indonesia;1;0;berdikari.ud@gmail.com;3560539;2438130;;Sudirman;;29751;21100010;11210010
+partner_3;CAHAYA BAKERY;Bandung;Indonesia;1;0;cahayabakery@gmail.com;6553065;7355536;;Diponegoro;;26096;21100010;11210010
+partner_4;FAJAR PUTRA UTAMA;Bandung;Indonesia;1;0;fajarputrautama@gmail.com;7153943;7077688;;Tendean;;26678;21100010;11210010
+partner_5;MARLIA;Surabaya;Indonesia;1;0;marlia@gmail.com;2458365;7451882;;Sisingamangaraja;;53339;21100010;11210010
+partner_6;MILENIUM TOKO;Surabaya;Indonesia;0;1;mileniumtoko@gmail.com;5750275;6621377;;Sudirman;;26528;21100010;11210010
+partner_7;MITRADAYA DISTRIBUSINDO;Surabaya;Indonesia;0;1;mitradayadistribusindo@gmail.com;5282574;5387288;;Juanda;;24397;21100010;11210010
+partner_8;MUHAMAD ARDHIANTO;Surabaya;Indonesia;0;1;muhamadardhianto@gmail.com;9605602;3883060;;Imam Bonjol;;35686;21100010;11210010
+partner_9;MUSTIKA BATU GILANG;Surabaya;Indonesia;0;1;mustikabatugilang@gmail.com;5712363;6470808;;Hasanudin;;32051;21100010;11210010
+partner_10;PT. AABC Software;Karawang;Indonesia;0;1;aabc-software@gmail.com;5712363;6470808;;Aziz Muslim;;32051;21100010;11210010

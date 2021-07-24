@@ -1,0 +1,12 @@
+id;name;parent_id;stock valuation account;expense account;income account;stock input account;stock output account;Inventory Valuation;Costing Method
+persediaan_1;Persediaan Daging;;Persediaan Daging;HPP Daging;Penjualan Daging;Stock Interim;Stock Interim;Automated;average
+persediaan_2;Persediaan Ikan;;Persediaan Ikan;HPP Ikan;Penjualan Ikan;Stock Interim;Stock Interim;Automated;average
+persediaan_3;Persediaan Sayuran;;Persediaan Sayuran;HPP Sayuran;Penjualan Sayuran;Stock Interim;Stock Interim;Automated;average
+persediaan_4;Persediaan Keringan;;Persediaan Keringan;HPP Keringan;Penjualan Keringan;Stock Interim;Stock Interim;Automated;average
+persediaan_5;Persediaan Buah;;Persediaan Buah;HPP Buah;Penjualan Buah;Stock Interim;Stock Interim;Automated;average
+persediaan_6;Persediaan Fresh Drink;;Persediaan Fresh Drink;HPP Fresh Drink;Penjualan Fresh Drink;Stock Interim;Stock Interim;Automated;average
+persediaan_7;Persediaan Rokok;;Persediaan Rokok;HPP Rokok;Penjualan Rokok;Stock Interim;Stock Interim;Automated;average
+persediaan_8;Persediaan Makanan;;Persediaan Makanan;HPP Makanan;Penjualan Makanan;Stock Interim;Stock Interim;Automated;average
+persediaan_9;Persediaan Minuman;;Persediaan Minuman;HPP Minuman;Penjualan Minuman;Stock Interim;Stock Interim;Automated;average
+persediaan_10;Persediaan Makanan Olahan;;Persediaan Makanan Olahan;HPP Makanan Olahan;Penjualan Makanan Olahan;Stock Interim;Stock Interim;Automated;average
+persediaan_11;Persediaan Lainnya;;Persediaan Lainnya;HPP Lainnya;Penjualan Lainnya;Stock Interim;Stock Interim;Automated;average

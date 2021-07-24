@@ -1,0 +1,16 @@
+Date;Journal;Reference;Starting Balance;Ending Balance;Statement lines/Date;Statement lines/Reference;Statement lines/Label;Statement lines/Partner;Statement lines/Amount;DB/CR
+23/07/2021;BCA 7777-0101-0202;;0;239979;07/18/2021;1;INV/2021/0002;;62975;CR
+;;;;;07/19/2021;2;INV/2021/0003;;113661;CR
+;;;;;07/22/2021;3;INV/2021/0004;;110000;CR
+;;;;;07/23/2021;4;INV/2021/0006;;71038;CR
+;;;;;07/24/2021;5;INV/2021/0005;;418165;CR
+;;;;;07/18/2021;6;BILL/2021/0001;;-94463;DB
+;;;;;07/18/2021;7;BILL/2021/0002;;-187000;DB
+;;;;;07/18/2021;8;BILL/2021/0003;;-255750;DB
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
